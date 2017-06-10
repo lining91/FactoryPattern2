@@ -60,6 +60,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\code\FactoryPattern2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\code\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
